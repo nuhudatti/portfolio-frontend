@@ -22,7 +22,7 @@ export default function ContactForm() {
     setIsSubmitting(true)
     
     try {
-      const response = await axios.post('http://localhost:5000/api/contact', formData)
+      const response = await axios.post('https://portfolio-backend-vhzl.onrender.com', formData)
       setSubmitMessage(response.data.message)
       setFormData({ name: '', email: '', message: '' })
     } catch (error) {
