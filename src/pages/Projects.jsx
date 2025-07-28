@@ -1,7 +1,7 @@
 import ProjectCard from '../components/ProjectCard'
 import  Everlearn from '../assets/Everlearn.png'; // Make sure this file exists
 import Ula from '../assets/ula.png'; // Make sure this file exists
-import Psi from '../assets/Psi.png'; // Make sure this file exists
+import Psi from '../assets/psi.png'; // Make sure this file exists
 
 const projects = [
   {
