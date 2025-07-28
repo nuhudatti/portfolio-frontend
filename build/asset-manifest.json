@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1ccda9a.css",
+    "main.js": "/static/js/main.2c7d578c.js",
+    "static/media/Everlearn.png": "/static/media/Everlearn.d4e65d4030552418ff7f.png",
+    "static/media/ula.png": "/static/media/ula.47ba0bf55f20643b03c8.png",
+    "static/media/psi.png": "/static/media/psi.3a6cc9b92f6e50d2f684.png",
+    "static/media/Datti.jpg": "/static/media/Datti.5c917277ae57bf9d8d67.jpg",
+    "index.html": "/index.html",
+    "main.e1ccda9a.css.map": "/static/css/main.e1ccda9a.css.map",
+    "main.2c7d578c.js.map": "/static/js/main.2c7d578c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1ccda9a.css",
+    "static/js/main.2c7d578c.js"
+  ]
+}
